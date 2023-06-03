@@ -1,0 +1,744 @@
+,Year,Conference,Round,Team1,Seed1,Odds1,Team2,Seed2,Odds2,WinningTeam,SeriesLength
+0,2023,Eastern,Conf Finals,Boston Celtics,2,-550.0,Miami Heat,8,400.0,,
+1,2023,Western,Conf Finals,Denver Nuggets,1,-170.0,Los Angeles Lakers,7,145.0,1,4.0
+2,2023,Eastern,Conf Semis,Boston Celtics,2,-550.0,Philadelphia 76ers,3,425.0,1,7.0
+3,2023,Eastern,Conf Semis,New York Knicks,5,-160.0,Miami Heat,8,140.0,2,6.0
+4,2023,Western,Conf Semis,Denver Nuggets,1,100.0,Phoenix Suns,4,-120.0,1,6.0
+5,2023,Western,Conf Semis,Golden State Warriors,6,-150.0,Los Angeles Lakers,7,130.0,2,6.0
+6,2023,Eastern,Round 1,Milwaukee Bucks,1,-1200.0,Miami Heat,8,750.0,2,5.0
+7,2023,Eastern,Round 1,Boston Celtics,2,-1600.0,Atlanta Hawks,7,900.0,1,6.0
+8,2023,Eastern,Round 1,Philadelphia 76ers,3,-1100.0,Brooklyn Nets,6,700.0,1,4.0
+9,2023,Eastern,Round 1,Cleveland Cavaliers,4,-190.0,New York Knicks,5,170.0,2,5.0
+10,2023,Western,Round 1,Denver Nuggets,1,-550.0,Minnesota Timberwolves,8,425.0,1,5.0
+11,2023,Western,Round 1,Memphis Grizzlies,2,-160.0,Los Angeles Lakers,7,140.0,2,6.0
+12,2023,Western,Round 1,Sacramento Kings,3,225.0,Golden State Warriors,6,-265.0,2,7.0
+13,2023,Western,Round 1,Phoenix Suns,4,-600.0,Los Angeles Clippers,5,450.0,1,5.0
+14,2022,,NBA Finals,Golden State Warriors,3,-145.0,Boston Celtics,2,125.0,1,6.0
+15,2022,Eastern,Conf Finals,Miami Heat,1,140.0,Boston Celtics,2,-160.0,2,7.0
+16,2022,Western,Conf Finals,Golden State Warriors,3,-220.0,Dallas Mavericks,4,180.0,1,5.0
+17,2022,Eastern,Conf Semis,Miami Heat,1,-310.0,Philadelphia 76ers,4,250.0,1,6.0
+18,2022,Eastern,Conf Semis,Boston Celtics,2,-200.0,Milwaukee Bucks,3,170.0,1,7.0
+19,2022,Western,Conf Semis,Phoenix Suns,1,-295.0,Dallas Mavericks,4,240.0,2,7.0
+20,2022,Western,Conf Semis,Memphis Grizzlies,2,210.0,Golden State Warriors,3,-255.0,2,6.0
+21,2022,Eastern,Round 1,Miami Heat,1,-420.0,Atlanta Hawks,8,330.0,1,5.0
+22,2022,Eastern,Round 1,Boston Celtics,2,-130.0,Brooklyn Nets,7,110.0,1,4.0
+23,2022,Eastern,Round 1,Milwaukee Bucks,3,-1100.0,Chicago Bulls,6,700.0,1,5.0
+24,2022,Eastern,Round 1,Philadelphia 76ers,4,-175.0,Toronto Raptors,5,155.0,1,6.0
+25,2022,Western,Round 1,Phoenix Suns,1,-1350.0,New Orleans Pelicans,8,750.0,1,6.0
+26,2022,Western,Round 1,Memphis Grizzlies,2,-320.0,Minnesota Timberwolves,7,260.0,1,6.0
+27,2022,Western,Round 1,Golden State Warriors,3,-275.0,Denver Nuggets,6,225.0,1,5.0
+28,2022,Western,Round 1,Dallas Mavericks,4,245.0,Utah Jazz,5,-300.0,1,6.0
+29,2021,,NBA Finals,Phoenix Suns,2,-180.0,Milwaukee Bucks,3,160.0,2,6.0
+30,2021,Eastern,Conf Finals,Milwaukee Bucks,3,-500.0,Atlanta Hawks,5,400.0,1,6.0
+31,2021,Western,Conf Finals,Phoenix Suns,2,-200.0,Los Angeles Clippers,4,170.0,1,6.0
+32,2021,Eastern,Conf Semis,Philadelphia 76ers,1,-175.0,Atlanta Hawks,5,155.0,2,7.0
+33,2021,Eastern,Conf Semis,Brooklyn Nets,2,-180.0,Milwaukee Bucks,3,160.0,2,7.0
+34,2021,Western,Conf Semis,Utah Jazz,1,-130.0,Los Angeles Clippers,4,110.0,2,6.0
+35,2021,Western,Conf Semis,Phoenix Suns,2,-210.0,Denver Nuggets,3,175.0,1,4.0
+36,2021,Eastern,Round 1,Philadelphia 76ers,1,-1000.0,Washington Wizards,8,650.0,1,5.0
+37,2021,Eastern,Round 1,Brooklyn Nets,2,-1400.0,Boston Celtics,7,800.0,1,5.0
+38,2021,Eastern,Round 1,Milwaukee Bucks,3,-320.0,Miami Heat,6,250.0,1,4.0
+39,2021,Eastern,Round 1,New York Knicks,4,110.0,Atlanta Hawks,5,-130.0,2,5.0
+40,2021,Western,Round 1,Utah Jazz,1,-1400.0,Memphis Grizzlies,8,800.0,1,5.0
+41,2021,Western,Round 1,Phoenix Suns,2,155.0,Los Angeles Lakers,7,-175.0,1,6.0
+42,2021,Western,Round 1,Denver Nuggets,3,110.0,Portland Trail Blazers,6,-130.0,1,6.0
+43,2021,Western,Round 1,Los Angeles Clippers,4,-400.0,Dallas Mavericks,5,310.0,1,7.0
+44,2020,,NBA Finals,Los Angeles Lakers,1,-350.0,Miami Heat,5,290.0,1,6.0
+45,2020,Eastern,Conf Finals,Boston Celtics,2,-130.0,Miami Heat,5,110.0,2,6.0
+46,2020,Western,Conf Finals,Los Angeles Lakers,1,-550.0,Denver Nuggets,3,425.0,1,5.0
+47,2020,Eastern,Conf Semis,Milwaukee Bucks,1,-440.0,Miami Heat,5,350.0,2,5.0
+48,2020,Eastern,Conf Semis,Toronto Raptors,2,-135.0,Boston Celtics,3,115.0,2,7.0
+49,2020,Western,Conf Semis,Los Angeles Lakers,1,-550.0,Houston Rockets,4,425.0,1,5.0
+50,2020,Western,Conf Semis,Los Angeles Clippers,2,-1300.0,Denver Nuggets,3,850.0,2,7.0
+51,2020,Eastern,Round 1,Milwaukee Bucks,1,-7500.0,Orlando Magic,8,3250.0,1,5.0
+52,2020,Eastern,Round 1,Toronto Raptors,2,-2200.0,Brooklyn Nets,7,1315.0,1,4.0
+53,2020,Eastern,Round 1,Boston Celtics,3,-450.0,Philadelphia 76ers,6,360.0,1,4.0
+54,2020,Eastern,Round 1,Indiana Pacers,4,260.0,Miami Heat,5,-320.0,2,4.0
+55,2020,Western,Round 1,Los Angeles Lakers,1,-550.0,Portland Trail Blazers,8,425.0,1,5.0
+56,2020,Western,Round 1,Los Angeles Clippers,2,-630.0,Dallas Mavericks,7,465.0,1,6.0
+57,2020,Western,Round 1,Denver Nuggets,3,-285.0,Utah Jazz,6,243.0,1,7.0
+58,2020,Western,Round 1,Houston Rockets,4,-160.0,Oklahoma City Thunder,5,140.0,1,7.0
+59,2019,,NBA Finals,Toronto Raptors,2,230.0,Golden State Warriors,1,-270.0,1,6.0
+60,2019,Eastern,Conf Finals,Milwaukee Bucks,1,-270.0,Toronto Raptors,2,230.0,2,6.0
+61,2019,Western,Conf Finals,Golden State Warriors,1,-550.0,Portland Trail Blazers,3,425.0,1,4.0
+62,2019,Eastern,Conf Semis,Milwaukee Bucks,1,-360.0,Boston Celtics,4,300.0,1,5.0
+63,2019,Eastern,Conf Semis,Toronto Raptors,2,-290.0,Philadelphia 76ers,3,245.0,1,7.0
+64,2019,Western,Conf Semis,Golden State Warriors,1,-280.0,Houston Rockets,4,240.0,1,6.0
+65,2019,Western,Conf Semis,Denver Nuggets,2,-145.0,Portland Trail Blazers,3,125.0,2,7.0
+66,2019,Eastern,Round 1,Milwaukee Bucks,1,-3500.0,Detroit Pistons,8,1750.0,1,4.0
+67,2019,Eastern,Round 1,Toronto Raptors,2,-1200.0,Orlando Magic,7,775.0,1,5.0
+68,2019,Eastern,Round 1,Philadelphia 76ers,3,-600.0,Brooklyn Nets,6,450.0,1,5.0
+69,2019,Eastern,Round 1,Boston Celtics,4,-465.0,Indiana Pacers,5,370.0,1,4.0
+70,2019,Western,Round 1,Golden State Warriors,1,-15000.0,Los Angeles Clippers,8,6000.0,1,6.0
+71,2019,Western,Round 1,Denver Nuggets,2,-270.0,San Antonio Spurs,7,230.0,1,7.0
+72,2019,Western,Round 1,Portland Trail Blazers,3,145.0,Oklahoma City Thunder,6,-165.0,1,5.0
+73,2019,Western,Round 1,Houston Rockets,4,-310.0,Utah Jazz,5,255.0,1,5.0
+74,2018,,NBA Finals,Golden State Warriors,2,-1075.0,Cleveland Cavaliers,4,688.0,1,4.0
+75,2018,Eastern,Conf Finals,Boston Celtics,2,235.0,Cleveland Cavaliers,4,-275.0,2,7.0
+76,2018,Western,Conf Finals,Houston Rockets,1,170.0,Golden State Warriors,2,-200.0,2,7.0
+77,2018,Eastern,Conf Semis,Toronto Raptors,1,-190.0,Cleveland Cavaliers,4,165.0,2,4.0
+78,2018,Eastern,Conf Semis,Boston Celtics,2,415.0,Philadelphia 76ers,3,-525.0,1,5.0
+79,2018,Western,Conf Semis,Houston Rockets,1,-1500.0,Utah Jazz,5,1000.0,1,5.0
+80,2018,Western,Conf Semis,Golden State Warriors,2,-1050.0,New Orleans Pelicans,6,675.0,1,5.0
+81,2018,Eastern,Round 1,Toronto Raptors,1,-630.0,Washington Wizards,8,465.0,1,6.0
+82,2018,Eastern,Round 1,Boston Celtics,2,-150.0,Milwaukee Bucks,7,130.0,1,7.0
+83,2018,Eastern,Round 1,Philadelphia 76ers,3,-500.0,Miami Heat,6,400.0,1,5.0
+84,2018,Eastern,Round 1,Cleveland Cavaliers,4,-600.0,Indiana Pacers,5,450.0,1,7.0
+85,2018,Western,Round 1,Houston Rockets,1,-3000.0,Minnesota Timberwolves,8,1500.0,1,5.0
+86,2018,Western,Round 1,Golden State Warriors,2,-900.0,San Antonio Spurs,7,600.0,1,5.0
+87,2018,Western,Round 1,Portland Trail Blazers,3,-220.0,New Orleans Pelicans,6,180.0,2,4.0
+88,2018,Western,Round 1,Oklahoma City Thunder,4,-140.0,Utah Jazz,5,120.0,2,6.0
+89,2017,,NBA Finals,Golden State Warriors,1,-300.0,Cleveland Cavaliers,2,250.0,1,5.0
+90,2017,Eastern,Conf Finals,Boston Celtics,1,500.0,Cleveland Cavaliers,2,-700.0,2,5.0
+91,2017,Western,Conf Finals,Golden State Warriors,1,-1050.0,San Antonio Spurs,2,675.0,1,4.0
+92,2017,Eastern,Conf Semis,Boston Celtics,1,-185.0,Washington Wizards,4,160.0,1,7.0
+93,2017,Eastern,Conf Semis,Cleveland Cavaliers,2,-475.0,Toronto Raptors,3,380.0,1,4.0
+94,2017,Western,Conf Semis,Golden State Warriors,1,-3200.0,Utah Jazz,5,1600.0,1,4.0
+95,2017,Western,Conf Semis,San Antonio Spurs,2,-300.0,Houston Rockets,3,250.0,1,6.0
+96,2017,Eastern,Round 1,Boston Celtics,1,-470.0,Chicago Bulls,8,375.0,1,6.0
+97,2017,Eastern,Round 1,Cleveland Cavaliers,2,-1100.0,Indiana Pacers,7,700.0,1,4.0
+98,2017,Eastern,Round 1,Toronto Raptors,3,-440.0,Milwaukee Bucks,6,350.0,1,6.0
+99,2017,Eastern,Round 1,Washington Wizards,4,-220.0,Atlanta Hawks,5,180.0,1,6.0
+100,2017,Western,Round 1,Golden State Warriors,1,-7000.0,Portland Trail Blazers,8,3000.0,1,4.0
+101,2017,Western,Round 1,San Antonio Spurs,2,-1070.0,Memphis Grizzlies,7,685.0,1,6.0
+102,2017,Western,Round 1,Houston Rockets,3,-390.0,Oklahoma City Thunder,6,320.0,1,5.0
+103,2017,Western,Round 1,Los Angeles Clippers,4,-245.0,Utah Jazz,5,205.0,2,7.0
+104,2016,,NBA Finals,Golden State Warriors,1,-220.0,Cleveland Cavaliers,1,180.0,2,7.0
+105,2016,Eastern,Conf Finals,Cleveland Cavaliers,1,-1350.0,Toronto Raptors,2,885.0,1,6.0
+106,2016,Western,Conf Finals,Golden State Warriors,1,-430.0,Oklahoma City Thunder,3,345.0,1,7.0
+107,2016,Eastern,Conf Semis,Cleveland Cavaliers,1,-500.0,Atlanta Hawks,4,400.0,1,4.0
+108,2016,Eastern,Conf Semis,Toronto Raptors,2,-145.0,Miami Heat,3,125.0,1,7.0
+109,2016,Western,Conf Semis,Golden State Warriors,1,-1600.0,Portland Trail Blazers,5,1050.0,1,5.0
+110,2016,Western,Conf Semis,San Antonio Spurs,2,-270.0,Oklahoma City Thunder,3,230.0,2,6.0
+111,2016,Eastern,Round 1,Cleveland Cavaliers,1,-1700.0,Detroit Pistons,8,1100.0,1,4.0
+112,2016,Eastern,Round 1,Toronto Raptors,2,-400.0,Indiana Pacers,7,325.0,1,7.0
+113,2016,Eastern,Round 1,Miami Heat,3,-170.0,Charlotte Hornets,6,150.0,1,7.0
+114,2016,Eastern,Round 1,Atlanta Hawks,4,-165.0,Boston Celtics,5,145.0,1,6.0
+115,2016,Western,Round 1,Golden State Warriors,1,-10000.0,Houston Rockets,8,4000.0,1,5.0
+116,2016,Western,Round 1,San Antonio Spurs,2,-17000.0,Memphis Grizzlies,7,6625.0,1,4.0
+117,2016,Western,Round 1,Oklahoma City Thunder,3,-3500.0,Dallas Mavericks,6,1750.0,1,5.0
+118,2016,Western,Round 1,Los Angeles Clippers,4,-525.0,Portland Trail Blazers,5,415.0,2,6.0
+119,2015,,NBA Finals,Golden State Warriors,1,-220.0,Cleveland Cavaliers,2,190.0,1,6.0
+120,2015,Eastern,Conf Finals,Atlanta Hawks,1,165.0,Cleveland Cavaliers,2,-190.0,2,4.0
+121,2015,Western,Conf Finals,Golden State Warriors,1,-880.0,Houston Rockets,2,665.0,1,5.0
+122,2015,Eastern,Conf Semis,Atlanta Hawks,1,-245.0,Washington Wizards,5,205.0,1,6.0
+123,2015,Eastern,Conf Semis,Cleveland Cavaliers,2,-240.0,Chicago Bulls,3,200.0,1,6.0
+124,2015,Western,Conf Semis,Golden State Warriors,1,-1000.0,Memphis Grizzlies,5,725.0,1,6.0
+125,2015,Western,Conf Semis,Houston Rockets,2,-150.0,Los Angeles Clippers,3,130.0,1,7.0
+126,2015,Eastern,Round 1,Atlanta Hawks,1,-1350.0,Brooklyn Nets,8,900.0,1,6.0
+127,2015,Eastern,Round 1,Cleveland Cavaliers,2,-5000.0,Boston Celtics,7,2100.0,1,4.0
+128,2015,Eastern,Round 1,Chicago Bulls,3,-950.0,Milwaukee Bucks,6,700.0,1,6.0
+129,2015,Eastern,Round 1,Toronto Raptors,4,-175.0,Washington Wizards,5,155.0,2,4.0
+130,2015,Western,Round 1,Golden State Warriors,1,-3000.0,New Orleans Pelicans,8,1500.0,1,4.0
+131,2015,Western,Round 1,Houston Rockets,2,-260.0,Dallas Mavericks,7,220.0,1,5.0
+132,2015,Western,Round 1,Los Angeles Clippers,3,160.0,San Antonio Spurs,6,-180.0,1,7.0
+133,2015,Western,Round 1,Memphis Grizzlies,5,-225.0,Portland Trail Blazers,4,195.0,1,5.0
+134,2014,,NBA Finals,San Antonio Spurs,1,-155.0,Miami Heat,2,135.0,1,5.0
+135,2014,Eastern,Conf Finals,Indiana Pacers,1,300.0,Miami Heat,2,-380.0,2,6.0
+136,2014,Western,Conf Finals,San Antonio Spurs,1,-245.0,Oklahoma City Thunder,2,205.0,1,6.0
+137,2014,Eastern,Conf Semis,Indiana Pacers,1,-165.0,Washington Wizards,5,145.0,1,6.0
+138,2014,Eastern,Conf Semis,Miami Heat,2,-620.0,Brooklyn Nets,6,450.0,1,5.0
+139,2014,Western,Conf Semis,San Antonio Spurs,1,-410.0,Portland Trail Blazers,5,320.0,1,5.0
+140,2014,Western,Conf Semis,Oklahoma City Thunder,2,-205.0,Los Angeles Clippers,3,175.0,1,6.0
+141,2014,Eastern,Round 1,Indiana Pacers,1,-600.0,Atlanta Hawks,8,440.0,1,7.0
+142,2014,Eastern,Round 1,Miami Heat,2,-2500.0,Charlotte Bobcats,7,1000.0,1,4.0
+143,2014,Eastern,Round 1,Toronto Raptors,3,110.0,Brooklyn Nets,6,-130.0,2,7.0
+144,2014,Eastern,Round 1,Chicago Bulls,4,-180.0,Washington Wizards,5,160.0,2,5.0
+145,2014,Western,Round 1,San Antonio Spurs,1,-875.0,Dallas Mavericks,8,585.0,1,7.0
+146,2014,Western,Round 1,Oklahoma City Thunder,2,-500.0,Memphis Grizzlies,7,375.0,1,7.0
+147,2014,Western,Round 1,Los Angeles Clippers,3,-400.0,Golden State Warriors,6,285.0,1,7.0
+148,2014,Western,Round 1,Houston Rockets,4,-200.0,Portland Trail Blazers,5,170.0,2,6.0
+149,2013,,NBA Finals,Miami Heat,1,-220.0,San Antonio Spurs,2,180.0,1,7.0
+150,2013,Eastern,Conf Finals,Miami Heat,1,-850.0,Indiana Pacers,3,575.0,1,7.0
+151,2013,Western,Conf Finals,San Antonio Spurs,2,-145.0,Memphis Grizzlies,5,125.0,1,4.0
+152,2013,Eastern,Conf Semis,Miami Heat,1,-3000.0,Chicago Bulls,5,1100.0,1,5.0
+153,2013,Eastern,Conf Semis,New York Knicks,2,-190.0,Indiana Pacers,3,165.0,2,6.0
+154,2013,Western,Conf Semis,Oklahoma City Thunder,1,107.0,Memphis Grizzlies,5,-127.0,2,5.0
+155,2013,Western,Conf Semis,San Antonio Spurs,2,-950.0,Golden State Warriors,6,625.0,1,6.0
+156,2013,Eastern,Round 1,Miami Heat,1,-20000.0,Milwaukee Bucks,8,7500.0,1,4.0
+157,2013,Eastern,Round 1,New York Knicks,2,-410.0,Boston Celtics,7,320.0,1,6.0
+158,2013,Eastern,Round 1,Indiana Pacers,3,-380.0,Atlanta Hawks,6,300.0,1,6.0
+159,2013,Eastern,Round 1,Brooklyn Nets,4,-145.0,Chicago Bulls,5,125.0,2,7.0
+160,2013,Western,Round 1,Oklahoma City Thunder,1,-1900.0,Houston Rockets,8,875.0,1,6.0
+161,2013,Western,Round 1,San Antonio Spurs,2,-1000.0,Los Angeles Lakers,7,650.0,1,4.0
+162,2013,Western,Round 1,Denver Nuggets,3,-460.0,Golden State Warriors,6,355.0,2,6.0
+163,2013,Western,Round 1,Los Angeles Clippers,4,-180.0,Memphis Grizzlies,5,160.0,2,6.0
+164,2012,,NBA Finals,Oklahoma City Thunder,2,-175.0,Miami Heat,2,155.0,2,5.0
+165,2012,Eastern,Conf Finals,Miami Heat,2,-530.0,Boston Celtics,4,400.0,1,7.0
+166,2012,Western,Conf Finals,San Antonio Spurs,1,-205.0,Oklahoma City Thunder,2,175.0,2,6.0
+167,2012,Eastern,Conf Semis,Miami Heat,2,-950.0,Indiana Pacers,3,625.0,1,6.0
+168,2012,Eastern,Conf Semis,Boston Celtics,4,-205.0,Philadelphia 76ers,8,175.0,1,7.0
+169,2012,Western,Conf Semis,San Antonio Spurs,1,-2500.0,Los Angeles Clippers,5,1000.0,1,4.0
+170,2012,Western,Conf Semis,Oklahoma City Thunder,2,-450.0,Los Angeles Lakers,3,350.0,1,5.0
+171,2012,Eastern,Round 1,Chicago Bulls,1,-1400.0,Philadelphia 76ers,8,900.0,2,6.0
+172,2012,Eastern,Round 1,Miami Heat,2,-900.0,New York Knicks,7,650.0,1,5.0
+173,2012,Eastern,Round 1,Indiana Pacers,3,-800.0,Orlando Magic,6,600.0,1,5.0
+174,2012,Eastern,Round 1,Atlanta Hawks,4,160.0,Boston Celtics,5,-190.0,2,6.0
+175,2012,Western,Round 1,San Antonio Spurs,1,-2500.0,Utah Jazz,8,1450.0,1,4.0
+176,2012,Western,Round 1,Oklahoma City Thunder,2,-500.0,Dallas Mavericks,7,400.0,1,4.0
+177,2012,Western,Round 1,Los Angeles Lakers,3,-240.0,Denver Nuggets,6,195.0,1,7.0
+178,2012,Western,Round 1,Memphis Grizzlies,4,-200.0,Los Angeles Clippers,5,170.0,2,7.0
+179,2011,,NBA Finals,Miami Heat,2,-175.0,Dallas Mavericks,3,155.0,2,6.0
+180,2011,Eastern,Conf Finals,Chicago Bulls,1,160.0,Miami Heat,2,-190.0,2,5.0
+181,2011,Western,Conf Finals,Dallas Mavericks,3,-240.0,Oklahoma City Thunder,4,200.0,1,5.0
+182,2011,Eastern,Conf Semis,Chicago Bulls,1,-800.0,Atlanta Hawks,5,550.0,1,6.0
+183,2011,Eastern,Conf Semis,Miami Heat,2,-190.0,Boston Celtics,3,165.0,1,5.0
+184,2011,Western,Conf Semis,Los Angeles Lakers,2,-360.0,Dallas Mavericks,3,280.0,2,4.0
+185,2011,Western,Conf Semis,Oklahoma City Thunder,4,-350.0,Memphis Grizzlies,8,275.0,1,7.0
+186,2011,Eastern,Round 1,Chicago Bulls,1,-4000.0,Indiana Pacers,8,1200.0,1,5.0
+187,2011,Eastern,Round 1,Miami Heat,2,-2500.0,Philadelphia 76ers,7,1000.0,1,5.0
+188,2011,Eastern,Round 1,Boston Celtics,3,-350.0,New York Knicks,6,250.0,1,4.0
+189,2011,Eastern,Round 1,Orlando Magic,4,-650.0,Atlanta Hawks,5,425.0,2,6.0
+190,2011,Western,Round 1,San Antonio Spurs,1,-390.0,Memphis Grizzlies,8,280.0,2,6.0
+191,2011,Western,Round 1,Los Angeles Lakers,2,-2500.0,New Orleans Hornets,7,1000.0,1,6.0
+192,2011,Western,Round 1,Dallas Mavericks,3,-200.0,Portland Trail Blazers,6,160.0,1,6.0
+193,2011,Western,Round 1,Oklahoma City Thunder,4,-220.0,Denver Nuggets,5,170.0,1,5.0
+194,2010,,NBA Finals,Los Angeles Lakers,1,-190.0,Boston Celtics,4,165.0,1,7.0
+195,2010,Eastern,Conf Finals,Orlando Magic,2,-260.0,Boston Celtics,4,220.0,2,6.0
+196,2010,Western,Conf Finals,Los Angeles Lakers,1,-340.0,Phoenix Suns,3,270.0,1,6.0
+197,2010,Eastern,Conf Semis,Cleveland Cavaliers,1,-480.0,Boston Celtics,4,380.0,2,6.0
+198,2010,Eastern,Conf Semis,Orlando Magic,2,-800.0,Atlanta Hawks,3,550.0,1,4.0
+199,2010,Western,Conf Semis,Los Angeles Lakers,1,-420.0,Utah Jazz,5,310.0,1,4.0
+200,2010,Western,Conf Semis,Phoenix Suns,3,-140.0,San Antonio Spurs,7,120.0,1,4.0
+201,2010,Eastern,Round 1,Cleveland Cavaliers,1,-3000.0,Chicago Bulls,8,1400.0,1,5.0
+202,2010,Eastern,Round 1,Orlando Magic,2,-1000.0,Charlotte Bobcats,7,650.0,1,4.0
+203,2010,Eastern,Round 1,Atlanta Hawks,3,-750.0,Milwaukee Bucks,6,550.0,1,7.0
+204,2010,Eastern,Round 1,Boston Celtics,4,-175.0,Miami Heat,5,155.0,1,5.0
+205,2010,Western,Round 1,Los Angeles Lakers,1,-800.0,Oklahoma City Thunder,8,600.0,1,6.0
+206,2010,Western,Round 1,Dallas Mavericks,2,-150.0,San Antonio Spurs,7,130.0,2,6.0
+207,2010,Western,Round 1,Phoenix Suns,3,-500.0,Portland Trail Blazers,6,400.0,1,6.0
+208,2010,Western,Round 1,Denver Nuggets,4,-175.0,Utah Jazz,5,150.0,2,6.0
+209,2009,,NBA Finals,Los Angeles Lakers,1,-280.0,Orlando Magic,3,240.0,1,5.0
+210,2009,Eastern,Conf Finals,Cleveland Cavaliers,1,-700.0,Orlando Magic,3,550.0,2,6.0
+211,2009,Western,Conf Finals,Los Angeles Lakers,1,-250.0,Denver Nuggets,2,210.0,1,6.0
+212,2009,Eastern,Conf Semis,Cleveland Cavaliers,1,-2450.0,Atlanta Hawks,4,1000.0,1,4.0
+213,2009,Eastern,Conf Semis,Boston Celtics,2,-120.0,Orlando Magic,3,100.0,2,7.0
+214,2009,Western,Conf Semis,Los Angeles Lakers,1,-1100.0,Houston Rockets,5,700.0,1,7.0
+215,2009,Western,Conf Semis,Denver Nuggets,2,-240.0,Dallas Mavericks,6,200.0,1,5.0
+216,2009,Eastern,Round 1,Cleveland Cavaliers,1,-5000.0,Detroit Pistons,8,3000.0,1,4.0
+217,2009,Eastern,Round 1,Boston Celtics,2,-545.0,Chicago Bulls,7,405.0,1,7.0
+218,2009,Eastern,Round 1,Orlando Magic,3,-1400.0,Philadelphia 76ers,6,800.0,1,6.0
+219,2009,Eastern,Round 1,Atlanta Hawks,4,-145.0,Miami Heat,5,125.0,1,7.0
+220,2009,Western,Round 1,Los Angeles Lakers,1,-2000.0,Utah Jazz,8,1200.0,1,5.0
+221,2009,Western,Round 1,Denver Nuggets,2,-210.0,New Orleans Hornets,7,175.0,1,5.0
+222,2009,Western,Round 1,San Antonio Spurs,3,-190.0,Dallas Mavericks,6,160.0,2,5.0
+223,2009,Western,Round 1,Portland Trail Blazers,4,-175.0,Houston Rockets,5,150.0,2,6.0
+224,2008,,NBA Finals,Boston Celtics,1,160.0,Los Angeles Lakers,1,-180.0,1,6.0
+225,2008,Eastern,Conf Finals,Boston Celtics,1,-135.0,Detroit Pistons,2,115.0,1,6.0
+226,2008,Western,Conf Finals,Los Angeles Lakers,1,-250.0,San Antonio Spurs,3,210.0,1,5.0
+227,2008,Eastern,Conf Semis,Boston Celtics,1,-900.0,Cleveland Cavaliers,4,600.0,1,7.0
+228,2008,Eastern,Conf Semis,Detroit Pistons,2,-305.0,Orlando Magic,3,255.0,1,5.0
+229,2008,Western,Conf Semis,Los Angeles Lakers,1,-350.0,Utah Jazz,4,290.0,1,6.0
+230,2008,Western,Conf Semis,New Orleans Hornets,2,115.0,San Antonio Spurs,6,-135.0,2,7.0
+231,2008,Eastern,Round 1,Boston Celtics,1,-8000.0,Atlanta Hawks,8,4000.0,1,7.0
+232,2008,Eastern,Round 1,Detroit Pistons,2,-1300.0,Philadelphia 76ers,7,850.0,1,6.0
+233,2008,Eastern,Round 1,Orlando Magic,3,-310.0,Toronto Raptors,6,260.0,1,5.0
+234,2008,Eastern,Round 1,Cleveland Cavaliers,4,-115.0,Washington Wizards,5,-105.0,1,6.0
+235,2008,Western,Round 1,Los Angeles Lakers,1,-560.0,Denver Nuggets,8,460.0,1,4.0
+236,2008,Western,Round 1,New Orleans Hornets,2,-145.0,Dallas Mavericks,7,125.0,1,5.0
+237,2008,Western,Round 1,San Antonio Spurs,3,-140.0,Phoenix Suns,6,120.0,1,5.0
+238,2008,Western,Round 1,Houston Rockets,5,185.0,Utah Jazz,4,-215.0,2,6.0
+239,2007,,NBA Finals,San Antonio Spurs,3,-450.0,Cleveland Cavaliers,2,360.0,1,4.0
+240,2007,Eastern,Conf Finals,Detroit Pistons,1,-330.0,Cleveland Cavaliers,2,270.0,2,6.0
+241,2007,Western,Conf Finals,San Antonio Spurs,3,-440.0,Utah Jazz,4,350.0,1,5.0
+242,2007,Eastern,Conf Semis,Detroit Pistons,1,-175.0,Chicago Bulls,5,155.0,1,6.0
+243,2007,Eastern,Conf Semis,Cleveland Cavaliers,2,-260.0,New Jersey Nets,6,220.0,1,6.0
+244,2007,Western,Conf Semis,Phoenix Suns,2,-150.0,San Antonio Spurs,3,130.0,2,6.0
+245,2007,Western,Conf Semis,Utah Jazz,4,-135.0,Golden State Warriors,8,115.0,1,5.0
+246,2007,Eastern,Round 1,Detroit Pistons,1,-2200.0,Orlando Magic,8,1400.0,1,4.0
+247,2007,Eastern,Round 1,Cleveland Cavaliers,2,-2400.0,Washington Wizards,7,1600.0,1,4.0
+248,2007,Eastern,Round 1,Toronto Raptors,3,-165.0,New Jersey Nets,6,145.0,2,6.0
+249,2007,Eastern,Round 1,Chicago Bulls,5,-140.0,Miami Heat,4,120.0,1,4.0
+250,2007,Western,Round 1,Dallas Mavericks,1,-1800.0,Golden State Warriors,8,1200.0,2,6.0
+251,2007,Western,Round 1,Phoenix Suns,2,-1600.0,Los Angeles Lakers,7,1000.0,1,5.0
+252,2007,Western,Round 1,San Antonio Spurs,3,-750.0,Denver Nuggets,6,550.0,1,5.0
+253,2007,Western,Round 1,Houston Rockets,5,-240.0,Utah Jazz,4,200.0,2,7.0
+254,2006,,NBA Finals,Dallas Mavericks,4,-150.0,Miami Heat,2,130.0,2,6.0
+255,2006,Eastern,Conf Finals,Detroit Pistons,1,-245.0,Miami Heat,2,205.0,2,6.0
+256,2006,Western,Conf Finals,Dallas Mavericks,4,-355.0,Phoenix Suns,2,295.0,1,6.0
+257,2006,Eastern,Conf Semis,Detroit Pistons,1,-2000.0,Cleveland Cavaliers,4,1200.0,1,6.0
+258,2006,Eastern,Conf Semis,Miami Heat,2,-190.0,New Jersey Nets,3,160.0,1,5.0
+259,2006,Western,Conf Semis,San Antonio Spurs,1,-180.0,Dallas Mavericks,4,150.0,2,7.0
+260,2006,Western,Conf Semis,Phoenix Suns,2,-205.0,Los Angeles Clippers,6,185.0,1,7.0
+261,2006,Eastern,Round 1,Detroit Pistons,1,-5500.0,Milwaukee Bucks,8,3250.0,1,5.0
+262,2006,Eastern,Round 1,Miami Heat,2,-850.0,Chicago Bulls,7,625.0,1,6.0
+263,2006,Eastern,Round 1,New Jersey Nets,3,-325.0,Indiana Pacers,6,275.0,1,6.0
+264,2006,Eastern,Round 1,Cleveland Cavaliers,4,-180.0,Washington Wizards,5,160.0,1,6.0
+265,2006,Western,Round 1,San Antonio Spurs,1,-1050.0,Sacramento Kings,8,725.0,1,6.0
+266,2006,Western,Round 1,Phoenix Suns,2,-360.0,Los Angeles Lakers,7,300.0,1,7.0
+267,2006,Western,Round 1,Dallas Mavericks,4,-725.0,Memphis Grizzlies,5,525.0,1,4.0
+268,2006,Western,Round 1,Los Angeles Clippers,6,-185.0,Denver Nuggets,3,145.0,1,5.0
+269,2005,,NBA Finals,San Antonio Spurs,2,-250.0,Detroit Pistons,2,200.0,1,7.0
+270,2005,Eastern,Conf Finals,Miami Heat,1,-130.0,Detroit Pistons,2,110.0,2,7.0
+271,2005,Western,Conf Finals,Phoenix Suns,1,140.0,San Antonio Spurs,2,-160.0,2,5.0
+272,2005,Eastern,Conf Semis,Miami Heat,1,-1800.0,Washington Wizards,5,1200.0,1,4.0
+273,2005,Eastern,Conf Semis,Detroit Pistons,2,-1100.0,Indiana Pacers,6,700.0,1,6.0
+274,2005,Western,Conf Semis,Phoenix Suns,1,-300.0,Dallas Mavericks,4,220.0,1,6.0
+275,2005,Western,Conf Semis,San Antonio Spurs,2,-1200.0,Seattle SuperSonics,3,800.0,1,6.0
+276,2005,Eastern,Round 1,Miami Heat,1,-1200.0,New Jersey Nets,8,800.0,1,4.0
+277,2005,Eastern,Round 1,Detroit Pistons,2,-1200.0,Philadelphia 76ers,7,800.0,1,5.0
+278,2005,Eastern,Round 1,Boston Celtics,3,-135.0,Indiana Pacers,6,115.0,2,7.0
+279,2005,Eastern,Round 1,Chicago Bulls,4,-145.0,Washington Wizards,5,125.0,2,6.0
+280,2005,Western,Round 1,Phoenix Suns,1,-1200.0,Memphis Grizzlies,8,800.0,1,4.0
+281,2005,Western,Round 1,San Antonio Spurs,2,-500.0,Denver Nuggets,7,400.0,1,5.0
+282,2005,Western,Round 1,Seattle SuperSonics,3,100.0,Sacramento Kings,6,-120.0,1,5.0
+283,2005,Western,Round 1,Dallas Mavericks,4,-220.0,Houston Rockets,5,180.0,1,7.0
+284,2004,,NBA Finals,Los Angeles Lakers,2,-700.0,Detroit Pistons,3,500.0,2,5.0
+285,2004,Eastern,Conf Finals,Indiana Pacers,1,-165.0,Detroit Pistons,3,145.0,2,6.0
+286,2004,Western,Conf Finals,Minnesota Timberwolves,1,270.0,Los Angeles Lakers,2,-330.0,2,6.0
+287,2004,Eastern,Conf Semis,Indiana Pacers,1,-2200.0,Miami Heat,4,1500.0,1,6.0
+288,2004,Eastern,Conf Semis,Detroit Pistons,3,-180.0,New Jersey Nets,2,160.0,1,7.0
+289,2004,Western,Conf Semis,Minnesota Timberwolves,1,-220.0,Sacramento Kings,4,170.0,1,7.0
+290,2004,Western,Conf Semis,San Antonio Spurs,3,-140.0,Los Angeles Lakers,2,120.0,2,6.0
+291,2004,Eastern,Round 1,Indiana Pacers,1,-1980.0,Boston Celtics,8,1520.0,1,4.0
+292,2004,Eastern,Round 1,New Jersey Nets,2,-580.0,New York Knicks,7,500.0,1,4.0
+293,2004,Eastern,Round 1,Detroit Pistons,3,-1780.0,Milwaukee Bucks,6,1430.0,1,5.0
+294,2004,Eastern,Round 1,Miami Heat,4,-277.0,New Orleans Hornets,5,243.0,1,7.0
+295,2004,Western,Round 1,Minnesota Timberwolves,1,-1920.0,Denver Nuggets,8,1540.0,1,5.0
+296,2004,Western,Round 1,Los Angeles Lakers,2,-1080.0,Houston Rockets,7,920.0,1,5.0
+297,2004,Western,Round 1,San Antonio Spurs,3,-1080.0,Memphis Grizzlies,6,920.0,1,4.0
+298,2004,Western,Round 1,Sacramento Kings,4,-164.0,Dallas Mavericks,5,148.0,1,5.0
+299,2003,,NBA Finals,San Antonio Spurs,1,-330.0,New Jersey Nets,2,260.0,1,6.0
+300,2003,Eastern,Conf Finals,Detroit Pistons,1,250.0,New Jersey Nets,2,-300.0,2,4.0
+301,2003,Western,Conf Finals,San Antonio Spurs,1,-380.0,Dallas Mavericks,3,320.0,1,6.0
+302,2003,Eastern,Conf Semis,Detroit Pistons,1,130.0,Philadelphia 76ers,4,-150.0,1,6.0
+303,2003,Eastern,Conf Semis,New Jersey Nets,2,-380.0,Boston Celtics,6,320.0,1,4.0
+304,2003,Western,Conf Semis,San Antonio Spurs,1,125.0,Los Angeles Lakers,5,-145.0,1,6.0
+305,2003,Western,Conf Semis,Dallas Mavericks,3,240.0,Sacramento Kings,2,-280.0,1,7.0
+306,2003,Eastern,Round 1,Detroit Pistons,1,-220.0,Orlando Magic,8,180.0,1,7.0
+307,2003,Eastern,Round 1,New Jersey Nets,2,-280.0,Milwaukee Bucks,7,230.0,1,6.0
+308,2003,Eastern,Round 1,Indiana Pacers,3,-340.0,Boston Celtics,6,280.0,2,6.0
+309,2003,Eastern,Round 1,Philadelphia 76ers,4,-179.0,New Orleans Hornets,5,150.0,1,6.0
+310,2003,Western,Round 1,San Antonio Spurs,1,-1000.0,Phoenix Suns,8,700.0,1,6.0
+311,2003,Western,Round 1,Sacramento Kings,2,-1400.0,Utah Jazz,7,1000.0,1,5.0
+312,2003,Western,Round 1,Dallas Mavericks,3,-400.0,Portland Trail Blazers,6,320.0,1,7.0
+313,2003,Western,Round 1,Minnesota Timberwolves,4,320.0,Los Angeles Lakers,5,-400.0,2,6.0
+314,2002,,NBA Finals,Los Angeles Lakers,3,-750.0,New Jersey Nets,1,550.0,1,4.0
+315,2002,Eastern,Conf Finals,New Jersey Nets,1,-135.0,Boston Celtics,3,115.0,1,6.0
+316,2002,Western,Conf Finals,Sacramento Kings,1,190.0,Los Angeles Lakers,3,-230.0,2,7.0
+317,2002,Eastern,Conf Semis,New Jersey Nets,1,-160.0,Charlotte Hornets,4,140.0,1,5.0
+318,2002,Eastern,Conf Semis,Detroit Pistons,2,-125.0,Boston Celtics,3,105.0,2,5.0
+319,2002,Western,Conf Semis,Sacramento Kings,1,-155.0,Dallas Mavericks,4,135.0,1,5.0
+320,2002,Western,Conf Semis,Los Angeles Lakers,3,-650.0,San Antonio Spurs,2,450.0,1,5.0
+321,2002,Eastern,Round 1,New Jersey Nets,1,-400.0,Indiana Pacers,8,300.0,1,5.0
+322,2002,Eastern,Round 1,Detroit Pistons,2,-450.0,Toronto Raptors,7,325.0,1,5.0
+323,2002,Eastern,Round 1,Boston Celtics,3,-200.0,Philadelphia 76ers,6,170.0,1,5.0
+324,2002,Eastern,Round 1,Charlotte Hornets,4,-300.0,Orlando Magic,5,250.0,1,4.0
+325,2002,Western,Round 1,Sacramento Kings,1,-2000.0,Utah Jazz,8,1400.0,1,4.0
+326,2002,Western,Round 1,San Antonio Spurs,2,-750.0,Seattle SuperSonics,7,550.0,1,5.0
+327,2002,Western,Round 1,Los Angeles Lakers,3,-600.0,Portland Trail Blazers,6,450.0,1,3.0
+328,2002,Western,Round 1,Dallas Mavericks,4,-500.0,Minnesota Timberwolves,5,400.0,1,3.0
+329,2001,,NBA Finals,Los Angeles Lakers,2,-2000.0,Philadelphia 76ers,1,1600.0,1,5.0
+330,2001,Eastern,Conf Finals,Philadelphia 76ers,1,-180.0,Milwaukee Bucks,2,160.0,1,7.0
+331,2001,Western,Conf Finals,San Antonio Spurs,1,125.0,Los Angeles Lakers,2,-145.0,2,4.0
+332,2001,Eastern,Conf Semis,Philadelphia 76ers,1,-340.0,Toronto Raptors,5,280.0,1,7.0
+333,2001,Eastern,Conf Semis,Milwaukee Bucks,2,-230.0,Charlotte Hornets,6,190.0,1,7.0
+334,2001,Western,Conf Semis,San Antonio Spurs,1,-650.0,Dallas Mavericks,5,450.0,1,5.0
+335,2001,Western,Conf Semis,Los Angeles Lakers,2,-360.0,Sacramento Kings,3,290.0,1,4.0
+336,2001,Eastern,Round 1,Philadelphia 76ers,1,-600.0,Indiana Pacers,8,400.0,1,4.0
+337,2001,Eastern,Round 1,Milwaukee Bucks,2,-500.0,Orlando Magic,7,350.0,1,4.0
+338,2001,Eastern,Round 1,Miami Heat,3,-180.0,Charlotte Hornets,6,160.0,2,3.0
+339,2001,Eastern,Round 1,New York Knicks,4,-170.0,Toronto Raptors,5,150.0,2,5.0
+340,2001,Western,Round 1,San Antonio Spurs,1,-900.0,Minnesota Timberwolves,8,600.0,1,4.0
+341,2001,Western,Round 1,Los Angeles Lakers,2,-400.0,Portland Trail Blazers,7,300.0,1,3.0
+342,2001,Western,Round 1,Sacramento Kings,3,-400.0,Phoenix Suns,6,300.0,1,4.0
+343,2001,Western,Round 1,Utah Jazz,4,-180.0,Dallas Mavericks,5,160.0,2,5.0
+344,2000,,NBA Finals,Los Angeles Lakers,1,-800.0,Indiana Pacers,1,550.0,1,6.0
+345,2000,Eastern,Conf Finals,Indiana Pacers,1,-260.0,New York Knicks,3,220.0,1,6.0
+346,2000,Western,Conf Finals,Los Angeles Lakers,1,-340.0,Portland Trail Blazers,3,280.0,1,7.0
+347,2000,Eastern,Conf Semis,Indiana Pacers,1,-185.0,Philadelphia 76ers,5,165.0,1,6.0
+348,2000,Eastern,Conf Semis,Miami Heat,2,-155.0,New York Knicks,3,135.0,2,7.0
+349,2000,Western,Conf Semis,Los Angeles Lakers,1,-2200.0,Phoenix Suns,5,1500.0,1,5.0
+350,2000,Western,Conf Semis,Portland Trail Blazers,3,-240.0,Utah Jazz,2,190.0,1,5.0
+351,2000,Eastern,Round 1,Indiana Pacers,1,-800.0,Milwaukee Bucks,8,550.0,1,5.0
+352,2000,Eastern,Round 1,Miami Heat,2,,Detroit Pistons,7,,1,3.0
+353,2000,Eastern,Round 1,New York Knicks,3,-230.0,Toronto Raptors,6,190.0,1,3.0
+354,2000,Eastern,Round 1,Charlotte Hornets,4,-140.0,Philadelphia 76ers,5,120.0,2,4.0
+355,2000,Western,Round 1,Los Angeles Lakers,1,-2000.0,Sacramento Kings,8,1200.0,1,5.0
+356,2000,Western,Round 1,Utah Jazz,2,-650.0,Seattle SuperSonics,7,450.0,1,5.0
+357,2000,Western,Round 1,Portland Trail Blazers,3,-330.0,Minnesota Timberwolves,6,250.0,1,4.0
+358,2000,Western,Round 1,San Antonio Spurs,4,,Phoenix Suns,5,,2,4.0
+359,1999,,NBA Finals,San Antonio Spurs,1,-900.0,New York Knicks,8,600.0,1,5.0
+360,1999,Eastern,Conf Finals,Indiana Pacers,2,-240.0,New York Knicks,8,200.0,2,6.0
+361,1999,Western,Conf Finals,San Antonio Spurs,1,-200.0,Portland Trail Blazers,2,170.0,1,4.0
+362,1999,Eastern,Conf Semis,Indiana Pacers,2,-400.0,Philadelphia 76ers,6,300.0,1,4.0
+363,1999,Eastern,Conf Semis,Atlanta Hawks,4,-135.0,New York Knicks,8,115.0,2,4.0
+364,1999,Western,Conf Semis,San Antonio Spurs,1,-220.0,Los Angeles Lakers,4,180.0,1,4.0
+365,1999,Western,Conf Semis,Utah Jazz,3,-125.0,Portland Trail Blazers,2,105.0,2,6.0
+366,1999,Eastern,Round 1,Miami Heat,1,-280.0,New York Knicks,8,230.0,2,5.0
+367,1999,Eastern,Round 1,Indiana Pacers,2,-400.0,Milwaukee Bucks,7,300.0,1,3.0
+368,1999,Eastern,Round 1,Orlando Magic,3,-210.0,Philadelphia 76ers,6,175.0,2,4.0
+369,1999,Eastern,Round 1,Atlanta Hawks,4,-160.0,Detroit Pistons,5,140.0,1,5.0
+370,1999,Western,Round 1,San Antonio Spurs,1,-1500.0,Minnesota Timberwolves,8,1000.0,1,4.0
+371,1999,Western,Round 1,Portland Trail Blazers,2,-500.0,Phoenix Suns,7,350.0,1,3.0
+372,1999,Western,Round 1,Utah Jazz,3,-1000.0,Sacramento Kings,6,700.0,1,5.0
+373,1999,Western,Round 1,Los Angeles Lakers,4,-165.0,Houston Rockets,5,145.0,1,4.0
+374,1998,,NBA Finals,Utah Jazz,1,105.0,Chicago Bulls,1,-125.0,2,6.0
+375,1998,Eastern,Conf Finals,Chicago Bulls,1,-600.0,Indiana Pacers,3,400.0,1,7.0
+376,1998,Western,Conf Finals,Utah Jazz,1,110.0,Los Angeles Lakers,3,-130.0,1,4.0
+377,1998,Eastern,Conf Semis,Chicago Bulls,1,-2000.0,Charlotte Hornets,4,1400.0,1,5.0
+378,1998,Eastern,Conf Semis,Indiana Pacers,3,-1100.0,New York Knicks,7,700.0,1,5.0
+379,1998,Western,Conf Semis,Utah Jazz,1,-270.0,San Antonio Spurs,5,210.0,1,5.0
+380,1998,Western,Conf Semis,Seattle SuperSonics,2,-105.0,Los Angeles Lakers,3,-115.0,2,5.0
+381,1998,Eastern,Round 1,Chicago Bulls,1,-2500.0,New Jersey Nets,8,1800.0,1,3.0
+382,1998,Eastern,Round 1,Miami Heat,2,-500.0,New York Knicks,7,350.0,2,5.0
+383,1998,Eastern,Round 1,Indiana Pacers,3,-450.0,Cleveland Cavaliers,6,325.0,1,4.0
+384,1998,Eastern,Round 1,Charlotte Hornets,4,-120.0,Atlanta Hawks,5,100.0,1,4.0
+385,1998,Western,Round 1,Utah Jazz,1,-850.0,Houston Rockets,8,525.0,1,5.0
+386,1998,Western,Round 1,Seattle SuperSonics,2,-2000.0,Minnesota Timberwolves,7,1400.0,1,5.0
+387,1998,Western,Round 1,Los Angeles Lakers,3,-550.0,Portland Trail Blazers,6,375.0,1,4.0
+388,1998,Western,Round 1,Phoenix Suns,4,-135.0,San Antonio Spurs,5,115.0,2,4.0
+389,1997,,NBA Finals,Chicago Bulls,1,-600.0,Utah Jazz,1,400.0,1,6.0
+390,1997,Eastern,Conf Finals,Chicago Bulls,1,-1700.0,Miami Heat,2,1100.0,1,5.0
+391,1997,Western,Conf Finals,Utah Jazz,1,-220.0,Houston Rockets,3,180.0,1,6.0
+392,1997,Eastern,Conf Semis,Chicago Bulls,1,-1700.0,Atlanta Hawks,4,1100.0,1,5.0
+393,1997,Eastern,Conf Semis,Miami Heat,2,-145.0,New York Knicks,3,125.0,1,7.0
+394,1997,Western,Conf Semis,Utah Jazz,1,-270.0,Los Angeles Lakers,4,210.0,1,5.0
+395,1997,Western,Conf Semis,Houston Rockets,3,-130.0,Seattle SuperSonics,2,110.0,1,7.0
+396,1997,Eastern,Round 1,Chicago Bulls,1,-2500.0,Washington Bullets,8,1800.0,1,3.0
+397,1997,Eastern,Round 1,Miami Heat,2,-400.0,Orlando Magic,7,300.0,1,5.0
+398,1997,Eastern,Round 1,New York Knicks,3,-250.0,Charlotte Hornets,6,200.0,1,3.0
+399,1997,Eastern,Round 1,Atlanta Hawks,4,-170.0,Detroit Pistons,5,150.0,1,5.0
+400,1997,Western,Round 1,Utah Jazz,1,-3300.0,Los Angeles Clippers,8,2200.0,1,3.0
+401,1997,Western,Round 1,Seattle SuperSonics,2,-650.0,Phoenix Suns,7,450.0,1,5.0
+402,1997,Western,Round 1,Houston Rockets,3,-1300.0,Minnesota Timberwolves,6,800.0,1,3.0
+403,1997,Western,Round 1,Los Angeles Lakers,4,-330.0,Portland Trail Blazers,5,250.0,1,4.0
+404,1996,,NBA Finals,Chicago Bulls,1,-950.0,Seattle SuperSonics,2,650.0,1,6.0
+405,1996,Eastern,Conf Finals,Chicago Bulls,1,-500.0,Orlando Magic,2,350.0,1,4.0
+406,1996,Western,Conf Finals,Seattle SuperSonics,1,-270.0,Utah Jazz,3,210.0,1,7.0
+407,1996,Eastern,Conf Semis,Chicago Bulls,1,-3500.0,New York Knicks,5,2200.0,1,5.0
+408,1996,Eastern,Conf Semis,Orlando Magic,2,-1800.0,Atlanta Hawks,6,1400.0,1,5.0
+409,1996,Western,Conf Semis,Seattle SuperSonics,1,-200.0,Houston Rockets,5,170.0,1,4.0
+410,1996,Western,Conf Semis,San Antonio Spurs,2,-220.0,Utah Jazz,3,180.0,2,6.0
+411,1996,Eastern,Round 1,Chicago Bulls,1,-2500.0,Miami Heat,8,1800.0,1,3.0
+412,1996,Eastern,Round 1,Orlando Magic,2,-1500.0,Detroit Pistons,7,1000.0,1,3.0
+413,1996,Eastern,Round 1,Indiana Pacers,3,-140.0,Atlanta Hawks,6,120.0,2,5.0
+414,1996,Eastern,Round 1,Cleveland Cavaliers,4,-185.0,New York Knicks,5,165.0,2,3.0
+415,1996,Western,Round 1,Seattle SuperSonics,1,-2200.0,Sacramento Kings,8,1500.0,1,4.0
+416,1996,Western,Round 1,San Antonio Spurs,2,-500.0,Phoenix Suns,7,350.0,1,4.0
+417,1996,Western,Round 1,Utah Jazz,3,-400.0,Portland Trail Blazers,6,300.0,1,5.0
+418,1996,Western,Round 1,Los Angeles Lakers,4,-145.0,Houston Rockets,5,125.0,2,4.0
+419,1995,,NBA Finals,Orlando Magic,1,-150.0,Houston Rockets,6,130.0,2,4.0
+420,1995,Eastern,Conf Finals,Orlando Magic,1,-200.0,Indiana Pacers,2,170.0,1,7.0
+421,1995,Western,Conf Finals,San Antonio Spurs,1,-330.0,Houston Rockets,6,250.0,2,6.0
+422,1995,Eastern,Conf Semis,Orlando Magic,1,165.0,Chicago Bulls,5,-185.0,1,6.0
+423,1995,Eastern,Conf Semis,New York Knicks,3,-140.0,Indiana Pacers,2,120.0,2,7.0
+424,1995,Western,Conf Semis,San Antonio Spurs,1,-600.0,Los Angeles Lakers,5,400.0,1,6.0
+425,1995,Western,Conf Semis,Phoenix Suns,2,-270.0,Houston Rockets,6,210.0,2,7.0
+426,1995,Eastern,Round 1,Orlando Magic,1,-950.0,Boston Celtics,8,650.0,1,4.0
+427,1995,Eastern,Round 1,Indiana Pacers,2,-360.0,Atlanta Hawks,7,280.0,1,3.0
+428,1995,Eastern,Round 1,New York Knicks,3,-400.0,Cleveland Cavaliers,6,300.0,1,4.0
+429,1995,Eastern,Round 1,Charlotte Hornets,4,280.0,Chicago Bulls,5,-360.0,2,4.0
+430,1995,Western,Round 1,San Antonio Spurs,1,-600.0,Denver Nuggets,8,400.0,1,3.0
+431,1995,Western,Round 1,Phoenix Suns,2,-400.0,Portland Trail Blazers,7,300.0,1,3.0
+432,1995,Western,Round 1,Utah Jazz,3,-270.0,Houston Rockets,6,210.0,2,5.0
+433,1995,Western,Round 1,Seattle SuperSonics,4,-400.0,Los Angeles Lakers,5,300.0,2,4.0
+434,1994,,NBA Finals,Houston Rockets,2,-220.0,New York Knicks,2,180.0,1,7.0
+435,1994,Eastern,Conf Finals,New York Knicks,2,-200.0,Indiana Pacers,5,170.0,1,7.0
+436,1994,Western,Conf Finals,Houston Rockets,2,-270.0,Utah Jazz,5,210.0,1,5.0
+437,1994,Eastern,Conf Semis,Atlanta Hawks,1,-160.0,Indiana Pacers,5,140.0,2,6.0
+438,1994,Eastern,Conf Semis,New York Knicks,2,-180.0,Chicago Bulls,3,160.0,1,7.0
+439,1994,Western,Conf Semis,Houston Rockets,2,-120.0,Phoenix Suns,3,100.0,1,7.0
+440,1994,Western,Conf Semis,Utah Jazz,5,-650.0,Denver Nuggets,8,450.0,1,7.0
+441,1994,Eastern,Round 1,Atlanta Hawks,1,-360.0,Miami Heat,8,280.0,1,5.0
+442,1994,Eastern,Round 1,New York Knicks,2,-360.0,New Jersey Nets,7,280.0,1,4.0
+443,1994,Eastern,Round 1,Chicago Bulls,3,-250.0,Cleveland Cavaliers,6,200.0,1,3.0
+444,1994,Eastern,Round 1,Orlando Magic,4,-170.0,Indiana Pacers,5,150.0,2,3.0
+445,1994,Western,Round 1,Seattle SuperSonics,1,-2000.0,Denver Nuggets,8,1400.0,2,5.0
+446,1994,Western,Round 1,Houston Rockets,2,-270.0,Portland Trail Blazers,7,210.0,1,4.0
+447,1994,Western,Round 1,Phoenix Suns,3,-360.0,Golden State Warriors,6,280.0,1,3.0
+448,1994,Western,Round 1,San Antonio Spurs,4,-200.0,Utah Jazz,5,170.0,2,4.0
+449,1993,,NBA Finals,Phoenix Suns,1,190.0,Chicago Bulls,2,-240.0,2,6.0
+450,1993,Eastern,Conf Finals,New York Knicks,1,130.0,Chicago Bulls,2,-150.0,2,6.0
+451,1993,Western,Conf Finals,Phoenix Suns,1,-330.0,Seattle SuperSonics,3,250.0,1,7.0
+452,1993,Eastern,Conf Semis,New York Knicks,1,,Charlotte Hornets,5,,1,5.0
+453,1993,Eastern,Conf Semis,Chicago Bulls,2,-500.0,Cleveland Cavaliers,3,350.0,1,4.0
+454,1993,Western,Conf Semis,Phoenix Suns,1,-650.0,San Antonio Spurs,5,450.0,1,6.0
+455,1993,Western,Conf Semis,Seattle SuperSonics,3,-135.0,Houston Rockets,2,115.0,1,7.0
+456,1993,Eastern,Round 1,New York Knicks,1,-900.0,Indiana Pacers,8,600.0,1,4.0
+457,1993,Eastern,Round 1,Chicago Bulls,2,-1200.0,Atlanta Hawks,7,800.0,1,3.0
+458,1993,Eastern,Round 1,Cleveland Cavaliers,3,-700.0,New Jersey Nets,6,500.0,1,5.0
+459,1993,Eastern,Round 1,Boston Celtics,4,-165.0,Charlotte Hornets,5,145.0,2,4.0
+460,1993,Western,Round 1,Phoenix Suns,1,-3000.0,Los Angeles Lakers,8,2000.0,1,5.0
+461,1993,Western,Round 1,Houston Rockets,2,-600.0,Los Angeles Clippers,7,400.0,1,5.0
+462,1993,Western,Round 1,Seattle SuperSonics,3,-350.0,Utah Jazz,6,275.0,1,5.0
+463,1993,Western,Round 1,Portland Trail Blazers,4,-250.0,San Antonio Spurs,5,200.0,2,4.0
+464,1992,,NBA Finals,Chicago Bulls,1,-250.0,Portland Trail Blazers,1,200.0,1,6.0
+465,1992,Eastern,Conf Finals,Chicago Bulls,1,-650.0,Cleveland Cavaliers,3,450.0,1,6.0
+466,1992,Western,Conf Finals,Portland Trail Blazers,1,-360.0,Utah Jazz,2,280.0,1,6.0
+467,1992,Eastern,Conf Semis,Chicago Bulls,1,-2500.0,New York Knicks,4,1700.0,1,7.0
+468,1992,Eastern,Conf Semis,Cleveland Cavaliers,3,-170.0,Boston Celtics,2,130.0,1,7.0
+469,1992,Western,Conf Semis,Portland Trail Blazers,1,-500.0,Phoenix Suns,4,350.0,1,5.0
+470,1992,Western,Conf Semis,Utah Jazz,2,-200.0,Seattle SuperSonics,6,160.0,1,5.0
+471,1992,Eastern,Round 1,Chicago Bulls,1,-10000.0,Miami Heat,8,7500.0,1,3.0
+472,1992,Eastern,Round 1,Boston Celtics,2,-550.0,Indiana Pacers,7,350.0,1,3.0
+473,1992,Eastern,Round 1,Cleveland Cavaliers,3,-850.0,New Jersey Nets,6,550.0,1,4.0
+474,1992,Eastern,Round 1,New York Knicks,4,-160.0,Detroit Pistons,5,120.0,1,5.0
+475,1992,Western,Round 1,Portland Trail Blazers,1,-2000.0,Los Angeles Lakers,8,1500.0,1,4.0
+476,1992,Western,Round 1,Utah Jazz,2,-450.0,Los Angeles Clippers,7,325.0,1,5.0
+477,1992,Western,Round 1,Golden State Warriors,3,-270.0,Seattle SuperSonics,6,210.0,2,4.0
+478,1992,Western,Round 1,Phoenix Suns,4,-1500.0,San Antonio Spurs,5,1000.0,1,3.0
+479,1991,,NBA Finals,Chicago Bulls,1,-200.0,Los Angeles Lakers,3,170.0,1,5.0
+480,1991,Eastern,Conf Finals,Chicago Bulls,1,-270.0,Detroit Pistons,3,210.0,1,4.0
+481,1991,Western,Conf Finals,Portland Trail Blazers,1,-190.0,Los Angeles Lakers,3,150.0,2,6.0
+482,1991,Eastern,Conf Semis,Chicago Bulls,1,-500.0,Philadelphia 76ers,5,350.0,1,5.0
+483,1991,Eastern,Conf Semis,Boston Celtics,2,-270.0,Detroit Pistons,3,210.0,2,6.0
+484,1991,Western,Conf Semis,Portland Trail Blazers,1,-650.0,Utah Jazz,5,450.0,1,5.0
+485,1991,Western,Conf Semis,Los Angeles Lakers,3,-800.0,Golden State Warriors,7,550.0,1,5.0
+486,1991,Eastern,Round 1,Chicago Bulls,1,-1200.0,New York Knicks,8,800.0,1,3.0
+487,1991,Eastern,Round 1,Boston Celtics,2,-900.0,Indiana Pacers,7,600.0,1,5.0
+488,1991,Eastern,Round 1,Detroit Pistons,3,-400.0,Atlanta Hawks,6,300.0,1,5.0
+489,1991,Eastern,Round 1,Milwaukee Bucks,4,-180.0,Philadelphia 76ers,5,140.0,2,3.0
+490,1991,Western,Round 1,Portland Trail Blazers,1,-1200.0,Seattle SuperSonics,8,800.0,1,5.0
+491,1991,Western,Round 1,San Antonio Spurs,2,-500.0,Golden State Warriors,7,350.0,2,4.0
+492,1991,Western,Round 1,Los Angeles Lakers,3,-360.0,Houston Rockets,6,280.0,1,3.0
+493,1991,Western,Round 1,Phoenix Suns,4,-360.0,Utah Jazz,5,280.0,2,4.0
+494,1990,,NBA Finals,Detroit Pistons,1,-400.0,Portland Trail Blazers,3,300.0,1,5.0
+495,1990,Eastern,Conf Finals,Detroit Pistons,1,-280.0,Chicago Bulls,3,220.0,1,7.0
+496,1990,Western,Conf Finals,Portland Trail Blazers,3,100.0,Phoenix Suns,5,-120.0,1,6.0
+497,1990,Eastern,Conf Semis,Detroit Pistons,1,-1500.0,New York Knicks,5,1000.0,1,5.0
+498,1990,Eastern,Conf Semis,Chicago Bulls,3,-160.0,Philadelphia 76ers,2,140.0,1,5.0
+499,1990,Western,Conf Semis,Los Angeles Lakers,1,-700.0,Phoenix Suns,5,500.0,2,5.0
+500,1990,Western,Conf Semis,Portland Trail Blazers,3,-200.0,San Antonio Spurs,2,170.0,1,7.0
+501,1990,Eastern,Round 1,Detroit Pistons,1,-1200.0,Indiana Pacers,8,800.0,1,3.0
+502,1990,Eastern,Round 1,Philadelphia 76ers,2,-450.0,Cleveland Cavaliers,7,325.0,1,5.0
+503,1990,Eastern,Round 1,Chicago Bulls,3,-650.0,Milwaukee Bucks,6,450.0,1,4.0
+504,1990,Eastern,Round 1,Boston Celtics,4,-450.0,New York Knicks,5,325.0,2,5.0
+505,1990,Western,Round 1,Los Angeles Lakers,1,-1200.0,Houston Rockets,8,800.0,1,4.0
+506,1990,Western,Round 1,San Antonio Spurs,2,-500.0,Denver Nuggets,7,350.0,1,3.0
+507,1990,Western,Round 1,Portland Trail Blazers,3,-600.0,Dallas Mavericks,6,400.0,1,3.0
+508,1990,Western,Round 1,Utah Jazz,4,-160.0,Phoenix Suns,5,140.0,2,5.0
+509,1989,,NBA Finals,Detroit Pistons,1,100.0,Los Angeles Lakers,1,-120.0,1,4.0
+510,1989,Eastern,Conf Finals,Detroit Pistons,1,-650.0,Chicago Bulls,6,450.0,1,6.0
+511,1989,Western,Conf Finals,Los Angeles Lakers,1,-300.0,Phoenix Suns,3,240.0,1,4.0
+512,1989,Eastern,Conf Semis,Detroit Pistons,1,-700.0,Milwaukee Bucks,5,500.0,1,4.0
+513,1989,Eastern,Conf Semis,New York Knicks,2,-450.0,Chicago Bulls,6,300.0,2,6.0
+514,1989,Western,Conf Semis,Los Angeles Lakers,1,-700.0,Seattle SuperSonics,4,500.0,1,4.0
+515,1989,Western,Conf Semis,Phoenix Suns,3,-850.0,Golden State Warriors,7,550.0,1,5.0
+516,1989,Eastern,Round 1,Detroit Pistons,1,-2000.0,Boston Celtics,8,1500.0,1,3.0
+517,1989,Eastern,Round 1,New York Knicks,2,-350.0,Philadelphia 76ers,7,275.0,1,3.0
+518,1989,Eastern,Round 1,Cleveland Cavaliers,3,-500.0,Chicago Bulls,6,350.0,2,5.0
+519,1989,Eastern,Round 1,Atlanta Hawks,4,-250.0,Milwaukee Bucks,5,200.0,2,5.0
+520,1989,Western,Round 1,Los Angeles Lakers,1,-2500.0,Portland Trail Blazers,8,2000.0,1,3.0
+521,1989,Western,Round 1,Utah Jazz,2,-1000.0,Golden State Warriors,7,700.0,2,3.0
+522,1989,Western,Round 1,Phoenix Suns,3,-1000.0,Denver Nuggets,6,700.0,1,3.0
+523,1989,Western,Round 1,Seattle SuperSonics,4,-280.0,Houston Rockets,5,230.0,1,4.0
+524,1988,,NBA Finals,Los Angeles Lakers,1,-260.0,Detroit Pistons,2,210.0,1,7.0
+525,1988,Eastern,Conf Finals,Boston Celtics,1,-250.0,Detroit Pistons,2,200.0,2,6.0
+526,1988,Western,Conf Finals,Los Angeles Lakers,1,-450.0,Dallas Mavericks,3,300.0,1,7.0
+527,1988,Eastern,Conf Semis,Boston Celtics,1,-500.0,Atlanta Hawks,4,300.0,1,7.0
+528,1988,Eastern,Conf Semis,Detroit Pistons,2,-240.0,Chicago Bulls,3,200.0,1,5.0
+529,1988,Western,Conf Semis,Los Angeles Lakers,1,,Utah Jazz,5,,1,7.0
+530,1988,Western,Conf Semis,Denver Nuggets,2,-170.0,Dallas Mavericks,3,150.0,2,6.0
+531,1988,Eastern,Round 1,Boston Celtics,1,-1200.0,New York Knicks,8,800.0,1,4.0
+532,1988,Eastern,Round 1,Detroit Pistons,2,-800.0,Washington Bullets,7,550.0,1,5.0
+533,1988,Eastern,Round 1,Chicago Bulls,3,-300.0,Cleveland Cavaliers,6,240.0,1,5.0
+534,1988,Eastern,Round 1,Atlanta Hawks,4,-450.0,Milwaukee Bucks,5,300.0,1,5.0
+535,1988,Western,Round 1,Los Angeles Lakers,1,-3000.0,San Antonio Spurs,8,2000.0,1,3.0
+536,1988,Western,Round 1,Denver Nuggets,2,-500.0,Seattle SuperSonics,7,350.0,1,5.0
+537,1988,Western,Round 1,Dallas Mavericks,3,-400.0,Houston Rockets,6,300.0,1,4.0
+538,1988,Western,Round 1,Portland Trail Blazers,4,-250.0,Utah Jazz,5,200.0,2,4.0
+539,1987,,NBA Finals,Los Angeles Lakers,1,-600.0,Boston Celtics,1,400.0,1,6.0
+540,1987,Eastern,Conf Finals,Boston Celtics,1,,Detroit Pistons,3,,1,7.0
+541,1987,Western,Conf Finals,Los Angeles Lakers,1,,Seattle SuperSonics,7,,1,4.0
+542,1987,Eastern,Conf Semis,Boston Celtics,1,,Milwaukee Bucks,4,,1,7.0
+543,1987,Eastern,Conf Semis,Atlanta Hawks,2,,Detroit Pistons,3,,2,5.0
+544,1987,Western,Conf Semis,Los Angeles Lakers,1,,Golden State Warriors,5,,1,5.0
+545,1987,Western,Conf Semis,Houston Rockets,6,,Seattle SuperSonics,7,,2,6.0
+546,1987,Eastern,Round 1,Boston Celtics,1,,Chicago Bulls,8,,1,3.0
+547,1987,Eastern,Round 1,Atlanta Hawks,2,,Indiana Pacers,7,,1,4.0
+548,1987,Eastern,Round 1,Detroit Pistons,3,,Washington Bullets,6,,1,3.0
+549,1987,Eastern,Round 1,Milwaukee Bucks,4,,Philadelphia 76ers,5,,1,5.0
+550,1987,Western,Round 1,Los Angeles Lakers,1,,Denver Nuggets,8,,1,3.0
+551,1987,Western,Round 1,Dallas Mavericks,2,,Seattle SuperSonics,7,,2,4.0
+552,1987,Western,Round 1,Portland Trail Blazers,3,,Houston Rockets,6,,2,4.0
+553,1987,Western,Round 1,Utah Jazz,4,,Golden State Warriors,5,,2,5.0
+554,1986,,NBA Finals,Boston Celtics,1,-700.0,Houston Rockets,2,500.0,1,6.0
+555,1986,Eastern,Conf Finals,Boston Celtics,1,,Milwaukee Bucks,2,,1,4.0
+556,1986,Western,Conf Finals,Los Angeles Lakers,1,,Houston Rockets,2,,2,5.0
+557,1986,Eastern,Conf Semis,Boston Celtics,1,,Atlanta Hawks,4,,1,5.0
+558,1986,Eastern,Conf Semis,Milwaukee Bucks,2,,Philadelphia 76ers,3,,1,7.0
+559,1986,Western,Conf Semis,Los Angeles Lakers,1,,Dallas Mavericks,4,,1,6.0
+560,1986,Western,Conf Semis,Houston Rockets,2,,Denver Nuggets,3,,1,6.0
+561,1986,Eastern,Round 1,Boston Celtics,1,,Chicago Bulls,8,,1,3.0
+562,1986,Eastern,Round 1,Milwaukee Bucks,2,,New Jersey Nets,7,,1,3.0
+563,1986,Eastern,Round 1,Philadelphia 76ers,3,,Washington Bullets,6,,1,5.0
+564,1986,Eastern,Round 1,Atlanta Hawks,4,,Detroit Pistons,5,,1,4.0
+565,1986,Western,Round 1,Los Angeles Lakers,1,,San Antonio Spurs,8,,1,3.0
+566,1986,Western,Round 1,Houston Rockets,2,,Sacramento Kings,7,,1,3.0
+567,1986,Western,Round 1,Denver Nuggets,3,,Portland Trail Blazers,6,,1,4.0
+568,1986,Western,Round 1,Dallas Mavericks,4,,Utah Jazz,5,,1,4.0
+569,1985,,NBA Finals,Boston Celtics,1,170.0,Los Angeles Lakers,1,-200.0,2,6.0
+570,1985,Eastern,Conf Finals,Boston Celtics,1,,Philadelphia 76ers,3,,1,5.0
+571,1985,Western,Conf Finals,Los Angeles Lakers,1,,Denver Nuggets,2,,1,5.0
+572,1985,Eastern,Conf Semis,Boston Celtics,1,,Detroit Pistons,4,,1,6.0
+573,1985,Eastern,Conf Semis,Milwaukee Bucks,2,,Philadelphia 76ers,3,,2,4.0
+574,1985,Western,Conf Semis,Los Angeles Lakers,1,,Portland Trail Blazers,5,,1,5.0
+575,1985,Western,Conf Semis,Denver Nuggets,2,,Utah Jazz,6,,1,5.0
+576,1985,Eastern,Round 1,Boston Celtics,1,,Cleveland Cavaliers,8,,1,4.0
+577,1985,Eastern,Round 1,Milwaukee Bucks,2,,Chicago Bulls,7,,1,4.0
+578,1985,Eastern,Round 1,Philadelphia 76ers,3,,Washington Bullets,6,,1,4.0
+579,1985,Eastern,Round 1,Detroit Pistons,4,,New Jersey Nets,5,,1,3.0
+580,1985,Western,Round 1,Los Angeles Lakers,1,,Phoenix Suns,8,,1,3.0
+581,1985,Western,Round 1,Denver Nuggets,2,,San Antonio Spurs,7,,1,5.0
+582,1985,Western,Round 1,Houston Rockets,3,,Utah Jazz,6,,2,5.0
+583,1985,Western,Round 1,Dallas Mavericks,4,,Portland Trail Blazers,5,,2,4.0
+584,1984,,NBA Finals,Boston Celtics,1,-120.0,Los Angeles Lakers,1,100.0,1,7.0
+585,1984,Eastern,Conf Finals,Boston Celtics,1,,Milwaukee Bucks,2,,1,5.0
+586,1984,Western,Conf Finals,Los Angeles Lakers,1,,Phoenix Suns,6,,1,6.0
+587,1984,Eastern,Conf Semis,Boston Celtics,1,,New York Knicks,5,,1,7.0
+588,1984,Eastern,Conf Semis,Milwaukee Bucks,2,,New Jersey Nets,6,,1,6.0
+589,1984,Western,Conf Semis,Los Angeles Lakers,1,,Dallas Mavericks,4,,1,5.0
+590,1984,Western,Conf Semis,Utah Jazz,2,,Phoenix Suns,6,,2,6.0
+591,1984,Eastern,Round 1,Boston Celtics,1,,Washington Bullets,8,,1,4.0
+592,1984,Eastern,Round 1,Milwaukee Bucks,2,,Atlanta Hawks,7,,1,5.0
+593,1984,Eastern,Round 1,Philadelphia 76ers,3,,New Jersey Nets,6,,2,5.0
+594,1984,Eastern,Round 1,Detroit Pistons,4,,New York Knicks,5,,2,5.0
+595,1984,Western,Round 1,Los Angeles Lakers,1,,Kansas City Kings,8,,1,3.0
+596,1984,Western,Round 1,Utah Jazz,2,,Denver Nuggets,7,,1,5.0
+597,1984,Western,Round 1,Portland Trail Blazers,3,,Phoenix Suns,6,,2,5.0
+598,1984,Western,Round 1,Dallas Mavericks,4,,Seattle SuperSonics,5,,1,5.0
+599,1983,,NBA Finals,Philadelphia 76ers,1,,Los Angeles Lakers,1,,1,4.0
+600,1983,Eastern,Conf Finals,Philadelphia 76ers,1,,Milwaukee Bucks,2,,1,5.0
+601,1983,Western,Conf Finals,Los Angeles Lakers,1,,San Antonio Spurs,2,,1,6.0
+602,1983,Eastern,Conf Semis,Philadelphia 76ers,1,,New York Knicks,5,,1,4.0
+603,1983,Eastern,Conf Semis,Boston Celtics,3,,Milwaukee Bucks,2,,2,4.0
+604,1983,Western,Conf Semis,Los Angeles Lakers,1,,Portland Trail Blazers,5,,1,5.0
+605,1983,Western,Conf Semis,San Antonio Spurs,2,,Denver Nuggets,6,,1,5.0
+606,1983,Eastern,Round 1,Boston Celtics,3,,Atlanta Hawks,6,,1,3.0
+607,1983,Eastern,Round 1,New Jersey Nets,4,,New York Knicks,5,,2,2.0
+608,1983,Western,Round 1,Phoenix Suns,3,,Denver Nuggets,6,,2,3.0
+609,1983,Western,Round 1,Seattle SuperSonics,4,,Portland Trail Blazers,5,,2,2.0
+610,1982,,NBA Finals,Los Angeles Lakers,1,-160.0,Philadelphia 76ers,3,140.0,1,6.0
+611,1982,Eastern,Conf Finals,Boston Celtics,1,,Philadelphia 76ers,3,,2,7.0
+612,1982,Western,Conf Finals,Los Angeles Lakers,1,,San Antonio Spurs,2,,1,4.0
+613,1982,Eastern,Conf Semis,Boston Celtics,1,,Washington Bullets,5,,1,5.0
+614,1982,Eastern,Conf Semis,Philadelphia 76ers,3,,Milwaukee Bucks,2,,1,6.0
+615,1982,Western,Conf Semis,Los Angeles Lakers,1,,Phoenix Suns,5,,1,4.0
+616,1982,Western,Conf Semis,Seattle SuperSonics,3,,San Antonio Spurs,2,,2,5.0
+617,1982,Eastern,Round 1,Philadelphia 76ers,3,,Atlanta Hawks,6,,1,2.0
+618,1982,Eastern,Round 1,New Jersey Nets,4,,Washington Bullets,5,,2,2.0
+619,1982,Western,Round 1,Seattle SuperSonics,3,,Houston Rockets,6,,1,3.0
+620,1982,Western,Round 1,Denver Nuggets,4,,Phoenix Suns,5,,2,3.0
+621,1981,,NBA Finals,Boston Celtics,1,-260.0,Houston Rockets,6,220.0,1,6.0
+622,1981,Eastern,Conf Finals,Boston Celtics,1,-160.0,Philadelphia 76ers,3,140.0,1,7.0
+623,1981,Western,Conf Finals,Kansas City Kings,5,-140.0,Houston Rockets,6,120.0,2,5.0
+624,1981,Eastern,Conf Semis,Boston Celtics,1,-180.0,Chicago Bulls,5,160.0,1,4.0
+625,1981,Eastern,Conf Semis,Philadelphia 76ers,3,-150.0,Milwaukee Bucks,2,130.0,1,7.0
+626,1981,Western,Conf Semis,Phoenix Suns,1,-220.0,Kansas City Kings,5,180.0,2,7.0
+627,1981,Western,Conf Semis,San Antonio Spurs,2,-160.0,Houston Rockets,6,140.0,2,7.0
+628,1981,Eastern,Round 1,Philadelphia 76ers,3,,Indiana Pacers,6,,1,2.0
+629,1981,Eastern,Round 1,New York Knicks,4,,Chicago Bulls,5,,2,2.0
+630,1981,Western,Round 1,Los Angeles Lakers,3,,Houston Rockets,6,,2,3.0
+631,1981,Western,Round 1,Portland Trail Blazers,4,,Kansas City Kings,5,,2,3.0
+632,1980,,NBA Finals,Los Angeles Lakers,1,-190.0,Philadelphia 76ers,3,170.0,1,6.0
+633,1980,Eastern,Conf Finals,Boston Celtics,1,-300.0,Philadelphia 76ers,3,240.0,2,5.0
+634,1980,Western,Conf Finals,Los Angeles Lakers,1,-240.0,Seattle SuperSonics,3,200.0,1,5.0
+635,1980,Eastern,Conf Semis,Boston Celtics,1,-700.0,Houston Rockets,4,500.0,1,4.0
+636,1980,Eastern,Conf Semis,Philadelphia 76ers,3,-120.0,Atlanta Hawks,2,100.0,1,5.0
+637,1980,Western,Conf Semis,Los Angeles Lakers,1,-200.0,Phoenix Suns,4,170.0,1,5.0
+638,1980,Western,Conf Semis,Seattle SuperSonics,3,-150.0,Milwaukee Bucks,2,130.0,1,7.0
+639,1980,Eastern,Round 1,Philadelphia 76ers,3,-600.0,Washington Bullets,6,400.0,1,2.0
+640,1980,Eastern,Round 1,Houston Rockets,4,-140.0,San Antonio Spurs,5,120.0,1,3.0
+641,1980,Western,Round 1,Seattle SuperSonics,3,-1000.0,Portland Trail Blazers,6,700.0,1,3.0
+642,1980,Western,Round 1,Phoenix Suns,4,-700.0,Kansas City Kings,5,500.0,1,3.0
+643,1979,,NBA Finals,Washington Bullets,1,-150.0,Seattle SuperSonics,1,130.0,2,5.0
+644,1979,Eastern,Conf Finals,Washington Bullets,1,-190.0,San Antonio Spurs,2,170.0,1,7.0
+645,1979,Western,Conf Finals,Seattle SuperSonics,1,-160.0,Phoenix Suns,3,140.0,1,7.0
+646,1979,Eastern,Conf Semis,Washington Bullets,1,,Atlanta Hawks,5,,1,7.0
+647,1979,Eastern,Conf Semis,San Antonio Spurs,2,,Philadelphia 76ers,3,,1,7.0
+648,1979,Western,Conf Semis,Seattle SuperSonics,1,,Los Angeles Lakers,5,,1,5.0
+649,1979,Western,Conf Semis,Phoenix Suns,3,,Kansas City Kings,2,,1,5.0
+650,1979,Eastern,Round 1,Philadelphia 76ers,3,-400.0,New Jersey Nets,6,300.0,1,2.0
+651,1979,Eastern,Round 1,Houston Rockets,4,-160.0,Atlanta Hawks,5,140.0,2,2.0
+652,1979,Western,Round 1,Phoenix Suns,3,,Portland Trail Blazers,6,,1,3.0
+653,1979,Western,Round 1,Denver Nuggets,4,,Los Angeles Lakers,5,,2,3.0
+654,1978,,NBA Finals,Seattle SuperSonics,4,-140.0,Washington Bullets,3,120.0,2,7.0
+655,1978,Eastern,Conf Finals,Philadelphia 76ers,1,,Washington Bullets,3,,2,6.0
+656,1978,Western,Conf Finals,Denver Nuggets,2,-160.0,Seattle SuperSonics,4,140.0,2,6.0
+657,1978,Eastern,Conf Semis,Philadelphia 76ers,1,,New York Knicks,5,,1,4.0
+658,1978,Eastern,Conf Semis,San Antonio Spurs,2,,Washington Bullets,3,,2,6.0
+659,1978,Western,Conf Semis,Portland Trail Blazers,1,,Seattle SuperSonics,4,,2,6.0
+660,1978,Western,Conf Semis,Denver Nuggets,2,,Milwaukee Bucks,6,,1,7.0
+661,1978,Eastern,Round 1,Washington Bullets,3,,Atlanta Hawks,6,,1,2.0
+662,1978,Eastern,Round 1,Cleveland Cavaliers,4,,New York Knicks,5,,2,2.0
+663,1978,Western,Round 1,Phoenix Suns,3,,Milwaukee Bucks,6,,2,2.0
+664,1978,Western,Round 1,Seattle SuperSonics,4,,Los Angeles Lakers,5,,1,3.0
+665,1977,,NBA Finals,Philadelphia 76ers,1,-160.0,Portland Trail Blazers,3,140.0,2,6.0
+666,1977,Eastern,Conf Finals,Philadelphia 76ers,1,-220.0,Houston Rockets,2,180.0,1,6.0
+667,1977,Western,Conf Finals,Los Angeles Lakers,1,,Portland Trail Blazers,3,,2,4.0
+668,1977,Eastern,Conf Semis,Philadelphia 76ers,1,,Boston Celtics,4,,1,7.0
+669,1977,Eastern,Conf Semis,Houston Rockets,2,,Washington Bullets,3,,1,6.0
+670,1977,Western,Conf Semis,Los Angeles Lakers,1,,Golden State Warriors,4,,1,7.0
+671,1977,Western,Conf Semis,Denver Nuggets,2,,Portland Trail Blazers,3,,2,6.0
+672,1977,Eastern,Round 1,Washington Bullets,3,,Cleveland Cavaliers,6,,1,3.0
+673,1977,Eastern,Round 1,Boston Celtics,4,,San Antonio Spurs,5,,1,2.0
+674,1977,Western,Round 1,Portland Trail Blazers,3,,Chicago Bulls,6,,1,3.0
+675,1977,Western,Round 1,Golden State Warriors,4,,Detroit Pistons,5,,1,3.0
+676,1976,,NBA Finals,Boston Celtics,1,-200.0,Phoenix Suns,3,170.0,1,6.0
+677,1976,Eastern,Conf Finals,Boston Celtics,1,-250.0,Cleveland Cavaliers,2,200.0,1,6.0
+678,1976,Western,Conf Finals,Golden State Warriors,1,,Phoenix Suns,3,,2,7.0
+679,1976,Eastern,Conf Semis,Boston Celtics,1,,Buffalo Braves,5,,1,6.0
+680,1976,Eastern,Conf Semis,Cleveland Cavaliers,2,,Washington Bullets,3,,1,7.0
+681,1976,Western,Conf Semis,Golden State Warriors,1,,Detroit Pistons,5,,1,6.0
+682,1976,Western,Conf Semis,Seattle SuperSonics,2,,Phoenix Suns,3,,2,6.0
+683,1976,Eastern,Round 1,Philadelphia 76ers,4,,Buffalo Braves,5,,2,3.0
+684,1976,Western,Round 1,Milwaukee Bucks,4,,Detroit Pistons,5,,2,3.0
+685,1975,,NBA Finals,Washington Bullets,2,-200.0,Golden State Warriors,1,170.0,2,4.0
+686,1975,Eastern,Conf Finals,Boston Celtics,1,-180.0,Washington Bullets,2,160.0,2,6.0
+687,1975,Western,Conf Finals,Golden State Warriors,1,100.0,Chicago Bulls,2,-120.0,1,7.0
+688,1975,Eastern,Conf Semis,Boston Celtics,1,,Houston Rockets,4,,1,5.0
+689,1975,Eastern,Conf Semis,Washington Bullets,2,,Buffalo Braves,3,,1,7.0
+690,1975,Western,Conf Semis,Golden State Warriors,1,,Seattle SuperSonics,5,,1,6.0
+691,1975,Western,Conf Semis,Chicago Bulls,2,,Kansas City Kings,3,,1,6.0
+692,1975,Eastern,Round 1,Houston Rockets,4,,New York Knicks,5,,1,3.0
+693,1975,Western,Round 1,Seattle SuperSonics,4,,Detroit Pistons,5,,1,3.0
+694,1974,,NBA Finals,Milwaukee Bucks,1,,Boston Celtics,1,,2,7.0
+695,1974,Eastern,Conf Finals,Boston Celtics,1,,New York Knicks,3,,1,5.0
+696,1974,Western,Conf Finals,Milwaukee Bucks,1,,Chicago Bulls,3,,1,4.0
+697,1974,Eastern,Conf Semis,Boston Celtics,1,,Buffalo Braves,4,,1,6.0
+698,1974,Eastern,Conf Semis,New York Knicks,3,,Capital Bullets,2,,1,7.0
+699,1974,Western,Conf Semis,Milwaukee Bucks,1,,Los Angeles Lakers,2,,1,5.0
+700,1974,Western,Conf Semis,Chicago Bulls,3,,Detroit Pistons,4,,1,7.0
+701,1973,,NBA Finals,Los Angeles Lakers,2,-160.0,New York Knicks,3,140.0,2,5.0
+702,1973,Eastern,Conf Finals,Boston Celtics,1,,New York Knicks,3,,2,7.0
+703,1973,Western,Conf Finals,Los Angeles Lakers,2,,Golden State Warriors,4,,1,5.0
+704,1973,Eastern,Conf Semis,Boston Celtics,1,,Atlanta Hawks,4,,1,6.0
+705,1973,Eastern,Conf Semis,New York Knicks,3,,Baltimore Bullets,2,,1,5.0
+706,1973,Western,Conf Semis,Milwaukee Bucks,1,,Golden State Warriors,4,,2,6.0
+707,1973,Western,Conf Semis,Los Angeles Lakers,2,,Chicago Bulls,3,,1,7.0
+708,1972,,NBA Finals,Los Angeles Lakers,1,-250.0,New York Knicks,3,200.0,1,5.0
+709,1972,Eastern,Conf Finals,Boston Celtics,1,,New York Knicks,3,,2,5.0
+710,1972,Western,Conf Finals,Los Angeles Lakers,1,,Milwaukee Bucks,2,,1,6.0
+711,1972,Eastern,Conf Semis,Boston Celtics,1,,Atlanta Hawks,4,,1,6.0
+712,1972,Eastern,Conf Semis,Baltimore Bullets,2,,New York Knicks,3,,2,6.0
+713,1972,Western,Conf Semis,Los Angeles Lakers,1,,Chicago Bulls,3,,1,4.0
+714,1972,Western,Conf Semis,Milwaukee Bucks,2,,Golden State Warriors,4,,1,5.0
+715,1971,,NBA Finals,Milwaukee Bucks,1,,Baltimore Bullets,2,,1,4.0
+716,1971,Eastern,Conf Finals,New York Knicks,1,,Baltimore Bullets,2,,2,7.0
+717,1971,Western,Conf Finals,Milwaukee Bucks,1,,Los Angeles Lakers,2,,1,5.0
+718,1971,Eastern,Conf Semis,New York Knicks,1,,Atlanta Hawks,4,,1,5.0
+719,1971,Eastern,Conf Semis,Baltimore Bullets,2,,Philadelphia 76ers,3,,1,7.0
+720,1971,Western,Conf Semis,Milwaukee Bucks,1,,San Francisco Warriors,4,,1,5.0
+721,1971,Western,Conf Semis,Los Angeles Lakers,2,,Chicago Bulls,3,,1,7.0
+722,1970,,NBA Finals,New York Knicks,1,-160.0,Los Angeles Lakers,2,140.0,1,7.0
+723,1970,Eastern,Conf Finals,New York Knicks,1,,Milwaukee Bucks,2,,1,5.0
+724,1970,Western,Conf Finals,Atlanta Hawks,1,,Los Angeles Lakers,2,,2,4.0
+725,1970,Eastern,Conf Semis,New York Knicks,1,,Baltimore Bullets,3,,1,7.0
+726,1970,Eastern,Conf Semis,Milwaukee Bucks,2,,Philadelphia 76ers,4,,1,5.0
+727,1970,Western,Conf Semis,Atlanta Hawks,1,,Chicago Bulls,3,,1,5.0
+728,1970,Western,Conf Semis,Los Angeles Lakers,2,,Phoenix Suns,4,,1,7.0
+729,1969,,NBA Finals,Los Angeles Lakers,1,-140.0,Boston Celtics,2,120.0,2,7.0
+730,1969,Eastern,Conf Finals,New York Knicks,3,,Boston Celtics,4,,2,6.0
+731,1969,Western,Conf Finals,Los Angeles Lakers,1,,Atlanta Hawks,2,,1,5.0
+732,1969,Eastern,Conf Semis,Baltimore Bullets,1,,New York Knicks,3,,2,4.0
+733,1969,Eastern,Conf Semis,Philadelphia 76ers,2,,Boston Celtics,4,,2,5.0
+734,1969,Western,Conf Semis,Los Angeles Lakers,1,,San Diego Rockets,3,,1,5.0
+735,1969,Western,Conf Semis,Atlanta Hawks,2,,San Francisco Warriors,4,,1,6.0
+736,1968,,NBA Finals,Boston Celtics,2,,Los Angeles Lakers,2,,1,6.0
+737,1968,Eastern,Conf Finals,Philadelphia 76ers,1,,Boston Celtics,2,,2,7.0
+738,1968,Western,Conf Finals,Los Angeles Lakers,2,,San Francisco Warriors,3,,1,4.0
+739,1968,Eastern,Conf Semis,Philadelphia 76ers,1,,New York Knicks,3,,1,6.0
+740,1968,Eastern,Conf Semis,Boston Celtics,2,,Detroit Pistons,4,,1,6.0
+741,1968,Western,Conf Semis,St Louis Hawks,1,,San Francisco Warriors,3,,2,5.0
+742,1968,Western,Conf Semis,Los Angeles Lakers,2,,Chicago Bulls,4,,1,6.0
